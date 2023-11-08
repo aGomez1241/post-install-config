@@ -51,7 +51,7 @@ Click on the Admin Panel and then click on agents and roles to get to this page 
 <img src="https://i.imgur.com/ZMANqnF.png"/>
 </p>
 <p>
-Go back to the Agents Panel and then click on Departments and create the System Admistrators Department. 
+Go back to the Agents Panel and then click on Departments and create the System Administrators Department. 
 </p>
 <br />
 
@@ -67,7 +67,7 @@ Go back to the Agents panel again and click on the Agents tab to create a new Ag
 <img src="https://i.imgur.com/sGgVgeS.png"/>
 </p>
 <p>
-From the Agents Panel go to teams and create Level II Support and add the agent you created to that team.
+From the Agents panel go to teams and create Level II Support and add the agent you created to that team.
 </p>
 <br />
 
@@ -94,12 +94,12 @@ SEV-C (Business Hours, 8 hours)<br \>
 <img src="https://i.imgur.com/TE9bhRO.png"/>
 </p>
 <p>
-Go back to manage and then configure these 4 help topic:<br \>
+Go back to manage and then configure these 4 help topics:<br \>
 Business Critical Outage<br \>
 Personal Computer Issues<br \>
 Equipment Request<br \>
 Password Reset<br \>
-Be sure to go to ticket information and be sure to set the SLA and priority accordingly. This concludes the Osticket Post Installation setup demonstration.
+Be sure to go to ticket information and set the SLA and priority accordingly. This concludes the Osticket Post Installation setup demonstration.
 
 </p>
 <br />
